@@ -71,5 +71,3 @@ The application has a distinct use case, but appeals to many different types of 
 - David Davies
 - Colin Perry
 - Mbongeni Allan Ngwenya
- [Stack Overflow](https://stackoverflow.com/)<br>
-  [MDN](https://developer.mozilla.org/en-US/)
