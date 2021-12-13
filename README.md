@@ -28,15 +28,15 @@ The application has a distinct use case, but appeals to many different types of 
 
 | login all Screen                                         | Desktop Results                                          | Desktop Details                                            |
 | -------------------------------------------------------- | -------------------------------------------------------- | ---------------------------------------------------------- |
-| <img src="assets/Img/ReadmeImg/deskOne.png" width="250"> | <img src="assets/Img/ReadmeImg/deskTwo.png" width="250"> | <img src="assets/Img/ReadmeImg/deskThree.png" width="250"> |
+| <img src="assets/images/readmeImgs/deskOne.png" width="250"> | <img src="assets/images/readmeImgs/deskTwo.png" width="250"> | <img src="assets/images/readmeImgs/deskThree.png" width="250"> |
 
 | Ipad Results                                             | Ipad Details                                               |
 | -------------------------------------------------------- | ---------------------------------------------------------- |
-| <img src="assets/Img/ReadmeImg/ipadTwo.png" width="250"> | <img src="assets/Img/ReadmeImg/ipadThree.png" width="250"> |
+| <img src="assets/images/readmeImgs/ipadTwo.png" width="250"> | <img src="assets/images/readmeImgs/ipadThree.png" width="250"> |
 
 | Iphone Results                                             | Iphone Details                                               |
 | ---------------------------------------------------------- | ------------------------------------------------------------ |
-| <img src="assets/Img/ReadmeImg/iphoneTwo.png" width="250"> | <img src="assets/Img/ReadmeImg/iphoneThree.png" width="250"> |
+| <img src="assets/images/readmeImgs/iphoneTwo.png" width="250"> | <img src="assets/images/readmeImgs/iphoneThree.png" width="250"> |
 
 ## Technology used
 
