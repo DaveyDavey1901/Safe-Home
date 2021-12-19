@@ -72,6 +72,6 @@ The application has a distinct use case, but appeals to many different types of 
 - Colin Perry
 - Mbongeni Allan Ngwenya
 
-##License
+## License
 
 [MIT License]()
