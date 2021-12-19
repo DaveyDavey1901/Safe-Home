@@ -74,4 +74,4 @@ The application has a distinct use case, but appeals to many different types of 
 
 ## License
 
-[MIT License]()
+[MIT License](LICENSE)
