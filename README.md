@@ -71,3 +71,7 @@ The application has a distinct use case, but appeals to many different types of 
 - David Davies
 - Colin Perry
 - Mbongeni Allan Ngwenya
+
+##License
+
+[MIT License]()
